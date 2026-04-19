@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="PakForge">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6d5efc"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="#0b1320"/>
+  <path d="M14 44V20h16c6.5 0 10.5 3.7 10.5 9.1 0 5.4-4 9.1-10.5 9.1H24V44h-10zm10-12h5.2c3.2 0 4.8-1.6 4.8-4.4 0-2.8-1.6-4.4-4.8-4.4H24v8.8z" fill="url(#g)"/>
+  <path d="M38 20h12l-7.2 10.3L52 44H40l-5.8-8.8" fill="none" stroke="#eaf1ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
